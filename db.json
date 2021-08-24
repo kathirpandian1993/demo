@@ -49,5 +49,23 @@
       "id": "4",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKmwZ9J14dxl9qukii2bxZjdIukNeB7xuSA&usqp=CAU"
     }
+  ],
+  "appointments": [
+    {
+      "name": "New Patients",
+      "count": 25
+    },
+    {
+      "name": "In Patients",
+      "count": 50
+    },
+    {
+      "name": "Appointment Next Week",
+      "count": 100
+    },
+    {
+      "name": "Vacent Romms",
+      "count": 25
+    }
   ]
 }
